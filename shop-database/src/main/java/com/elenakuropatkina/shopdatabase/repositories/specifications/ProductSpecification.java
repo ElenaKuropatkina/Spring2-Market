@@ -1,6 +1,6 @@
-package repositories.specifications;
+package com.elenakuropatkina.shopdatabase.repositories.specifications;
 
-import models.Product;
+import com.elenakuropatkina.shopdatabase.models.Product;
 import org.springframework.data.jpa.domain.Specification;
 
 

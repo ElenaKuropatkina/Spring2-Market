@@ -1,4 +1,4 @@
-package models;
+package com.elenakuropatkina.shopdatabase.models;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
