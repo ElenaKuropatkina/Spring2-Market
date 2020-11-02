@@ -1,7 +1,7 @@
-package repositories;
+package com.elenakuropatkina.shopdatabase.repositories;
 
 
-import models.Product;
+import com.elenakuropatkina.shopdatabase.models.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 import org.springframework.stereotype.Repository;

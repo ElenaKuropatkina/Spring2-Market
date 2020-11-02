@@ -1,6 +1,6 @@
-package repositories;
+package com.elenakuropatkina.shopdatabase.repositories;
 
-import models.Role;
+import com.elenakuropatkina.shopdatabase.models.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
